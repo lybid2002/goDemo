@@ -30,7 +30,7 @@ func GetSysConfig() *SysConfig {
 	// 使用 once.Do 确保初始化只执行一次
 	once.Do(func() {
 		// 读取YAML配置文件
-		yamlFile, _ := os.ReadFile("./configs/config.yaml")
+		yamlFile, _ := os.ReadFile("./config.yaml")
 		// 解析YAML配置文件
 		_ = yaml.Unmarshal(yamlFile, &_sysConfig)
 	})
