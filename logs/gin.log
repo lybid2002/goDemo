@@ -1,0 +1,7783 @@
+time="2024-02-21 14:19:05" level=info msg="Request: GET / Response: 200\n"
+time="2024-02-21 14:21:06" level=info msg="Request: GET / Response: 200 body: "
+time="2024-02-21 14:21:39" level=info msg="Request: GET / Response: 200 body: "
+time="2024-02-21 14:21:44" level=info msg="Request: GET / Response: 200 body: "
+time="2024-02-21 14:22:10" level=info msg="Request: GET / Response: 200 body: "
+time="2024-02-21 15:33:26" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:38:58" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:45:09" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:45:19" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:49:52" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:50:30" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:55:05" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:55:14" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:58:08" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 15:58:19" level=info msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+{"level":"info","msg":"Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}","time":"2024-02-21 16:02:40"}
+time="2024-02-21 16:03:57" level="info" msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+time="2024-02-21 16:04:09" level="info" msg="Request: GET / Response: 200 body: {\"message\":\"Hello World!\"}"
+[2024-02-21 16:11:08] [info] Request: GET / Response: 200 body: {"message":"Hello World!"}
+[2024-02-21 16:11:10] [info] Request: GET / Response: 200 body: {"message":"Hello World!"}
+[2024-02-21 16:12:56] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 09:26:53] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 09:29:01] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 09:40:33] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 09:40:44] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 09:41:11] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 13:23:08] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 13:24:49] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 13:25:09] [info] 
+Request: GET / 
+Response: 200 body: {"message":"Hello World!"}
+[2024-02-22 13:27:08] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:27:08] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:27:08] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:28:21] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:28:21] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:28:21] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:30:15] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:30:15] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:30:15] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:33:13] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:33:13] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:33:13] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:33:34] [debug] 
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:33:34] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:33:34] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:33:34] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:34:55] [debug] 
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:34:55] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:34:55] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 13:34:55] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:05:38.063] [debug] 
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:05:38.077] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:05:38.077] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:05:38.077] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:08:51.877] [debug] 
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:08:51.892] [info] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:08:51.892] [warning] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:08:51.892] [error] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:09:37.290] [[34mdebug[0m] 
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:09:37.303] [[36minfo[0m] 
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:09:37.303] [[33mwarning[0m] 
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:09:37.304] [[31merror[0m] 
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[34m[2024-02-22 14:12:07.519][0m [34m[debug][0m
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[36m[2024-02-22 14:12:07.534][0m [36m[info][0m
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[33m[2024-02-22 14:12:07.534][0m [33m[warning][0m
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[31m[2024-02-22 14:12:07.534][0m [31m[error][0m
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[[34m2024-02-22 14:13:10.971[0m] [[34mdebug[0m]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[[36m2024-02-22 14:13:10.985[0m] [[36minfo[0m]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[[33m2024-02-22 14:13:10.986[0m] [[33mwarning[0m]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[[31m2024-02-22 14:13:10.986[0m] [[31merror[0m]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:21.695] [debug]
+Test for db init
+[2024-02-22 14:25:21.711] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:21.711] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:21.711] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:21.711] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:31.238] [debug]
+Test for db init
+[2024-02-22 14:25:31.253] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:31.253] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:31.253] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:31.253] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:50.868] [debug]
+Test for db init
+[2024-02-22 14:25:50.883] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:50.883] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:50.883] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:50.883] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:59.857] [debug]
+Test for db init
+[2024-02-22 14:25:59.870] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:59.870] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:59.870] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:25:59.870] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:26:01.569] [debug]
+Test for db init
+[2024-02-22 14:26:01.584] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:26:01.585] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:26:01.585] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-22 14:26:01.585] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:30:40.592] [debug]
+Test for db init
+[2024-02-23 09:30:40.608] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:30:40.608] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:30:40.608] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:30:40.608] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:33:08.750] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"invalid character '}' looking for beginning of object key string"}
+[2024-02-23 09:33:34.301] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"message":"User registered successfully"}
+[2024-02-23 09:33:45.592] [info]
+Request: GET /api/user/register 
+Response: 400 body: {"error":"EOF"}
+[2024-02-23 09:33:54.445] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Username' Error:Field validation for 'Username' failed on the 'min' tag"}
+[2024-02-23 09:38:20.068] [debug]
+Test for db init
+[2024-02-23 09:38:20.081] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:38:20.081] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:38:20.081] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:38:20.081] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:57:08.383] [debug]
+Test for db init
+[2024-02-23 09:57:08.395] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:57:08.395] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:57:08.395] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:57:08.395] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:58:29.713] [debug]
+Test for db init
+[2024-02-23 09:58:29.727] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:58:29.727] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:58:29.727] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:58:29.727] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:30.109] [debug]
+Test for db init
+[2024-02-23 09:59:30.124] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:30.124] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:30.124] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:30.124] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:54.288] [debug]
+Test for db init
+[2024-02-23 09:59:54.303] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:54.303] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:54.303] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 09:59:54.303] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:46.548] [debug]
+Test for db init
+[2024-02-23 10:00:46.564] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:46.564] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:46.564] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:46.564] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:56.217] [debug]
+Test for db init
+[2024-02-23 10:00:56.230] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:56.230] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:56.230] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:00:56.230] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:02:16.135] [debug]
+Test for db init
+[2024-02-23 10:02:16.150] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:02:16.150] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:02:16.150] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:02:16.150] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:04:06.040] [debug]
+Test for db init
+[2024-02-23 10:04:06.055] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:04:06.055] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:04:06.055] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:04:06.055] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:13.881] [debug]
+Test for db init
+[2024-02-23 10:05:13.896] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:13.896] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:13.896] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:13.896] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:57.862] [debug]
+Test for db init
+[2024-02-23 10:05:57.877] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:57.877] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:57.877] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:05:57.877] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:06:57.448] [debug]
+Test for db init
+[2024-02-23 10:06:57.464] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:06:57.464] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:06:57.464] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:06:57.464] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:06:57.464] [debug]
+init validator
+[2024-02-23 10:07:10.128] [debug]
+Test for db init
+[2024-02-23 10:07:10.142] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:07:10.142] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:07:10.142] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:07:10.142] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:07:10.142] [debug]
+init validator
+[2024-02-23 10:14:41.128] [debug]
+Test for db init
+[2024-02-23 10:14:41.143] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:41.143] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:41.143] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:41.143] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:41.143] [debug]
+init validator
+[2024-02-23 10:14:42.732] [debug]
+Test for db init
+[2024-02-23 10:14:42.746] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:42.746] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:42.746] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:42.746] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:14:42.746] [debug]
+init validator
+[2024-02-23 10:15:06.659] [debug]
+Test for db init
+[2024-02-23 10:15:06.676] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:15:06.676] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:15:06.676] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:15:06.676] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:15:06.676] [debug]
+init validator
+[2024-02-23 10:16:23.187] [debug]
+Test for db init
+[2024-02-23 10:16:23.202] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:16:23.202] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:16:23.202] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:16:23.202] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:16:23.202] [debug]
+init validator
+[2024-02-23 10:16:27.621] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"te","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:20:34.837] [debug]
+Test for db init
+[2024-02-23 10:20:34.852] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:20:34.852] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:20:34.852] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:20:34.852] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:20:34.852] [debug]
+init validator
+[2024-02-23 10:20:38.397] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"te","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:20:46.009] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:20:51.695] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:21:19.119] [debug]
+Test for db init
+[2024-02-23 10:21:19.133] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:21:19.133] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:21:19.133] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:21:19.133] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:21:19.133] [debug]
+init validator
+[2024-02-23 10:21:20.547] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:21:21.955] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:21:22.662] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:21:23.223] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:22:06.230] [debug]
+Test for db init
+[2024-02-23 10:22:06.244] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:22:06.244] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:22:06.244] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:22:06.244] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:22:06.244] [debug]
+init validator
+[2024-02-23 10:22:24.667] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:25:00.717] [debug]
+Test for db init
+[2024-02-23 10:25:00.736] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:00.736] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:00.736] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:00.736] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:00.736] [debug]
+init validator
+[2024-02-23 10:25:28.163] [debug]
+Test for db init
+[2024-02-23 10:25:28.178] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:28.178] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:28.178] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:28.178] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:25:28.178] [debug]
+init validator
+[2024-02-23 10:25:31.989] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:26:15.886] [debug]
+Test for db init
+[2024-02-23 10:26:15.899] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:15.899] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:15.899] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:15.899] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:15.899] [debug]
+init validator
+[2024-02-23 10:26:17.842] [debug]
+Test for db init
+[2024-02-23 10:26:17.856] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:17.856] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:17.856] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:17.856] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:26:17.856] [debug]
+init validator
+[2024-02-23 10:26:20.221] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"t","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:30:18.921] [debug]
+Test for db init
+[2024-02-23 10:30:18.935] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:18.936] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:18.936] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:18.936] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:18.936] [debug]
+init validator
+[2024-02-23 10:30:41.402] [debug]
+Test for db init
+[2024-02-23 10:30:41.417] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:41.417] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:41.417] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:41.417] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:30:41.417] [debug]
+init validator
+[2024-02-23 10:30:50.420] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Username' Error:Field validation for 'Username' failed on the 'min' tag"}
+[2024-02-23 10:31:18.411] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Username' Error:Field validation for 'Username' failed on the 'min' tag"}
+[2024-02-23 10:31:19.797] [debug]
+Test for db init
+[2024-02-23 10:31:19.831] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:31:19.831] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:31:19.832] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:31:19.832] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:31:19.832] [debug]
+init validator
+[2024-02-23 10:31:23.530] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:31:31.028] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+[2024-02-23 10:31:40.025] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Username' Error:Field validation for 'Username' failed on the 'min' tag\nKey: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'email' tag"}
+[2024-02-23 10:32:36.498] [debug]
+Test for db init
+[2024-02-23 10:32:36.511] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:32:36.512] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:32:36.512] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:32:36.512] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:32:36.512] [debug]
+init validator
+[2024-02-23 10:33:04.945] [debug]
+Test for db init
+[2024-02-23 10:33:04.958] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:04.958] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:04.958] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:04.958] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:04.958] [debug]
+init validator
+[2024-02-23 10:33:16.362] [debug]
+Test for db init
+[2024-02-23 10:33:16.375] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:16.375] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:16.375] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:16.375] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:16.375] [debug]
+init validator
+[2024-02-23 10:33:36.530] [debug]
+Test for db init
+[2024-02-23 10:33:36.545] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:36.545] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:36.545] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:36.545] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:36.545] [debug]
+init validator
+[2024-02-23 10:33:57.036] [debug]
+Test for db init
+[2024-02-23 10:33:57.050] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:57.051] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:57.051] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:57.051] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:33:57.051] [debug]
+init validator
+[2024-02-23 10:43:46.273] [debug]
+Test for db init
+[2024-02-23 10:43:46.288] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:43:46.288] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:43:46.288] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:43:46.288] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:43:46.288] [debug]
+init validator
+[2024-02-23 10:51:39.807] [debug]
+Test for db init
+[2024-02-23 10:51:39.821] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:51:39.821] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:51:39.821] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:51:39.821] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:51:39.821] [debug]
+init validator
+[2024-02-23 10:51:52.699] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 10:52:20.934] [debug]
+Test for db init
+[2024-02-23 10:52:20.948] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:20.948] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:20.948] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:20.948] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:20.948] [debug]
+init validator
+[2024-02-23 10:52:25.926] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:52:37.953] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:52:39.759] [debug]
+Test for db init
+[2024-02-23 10:52:39.773] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:39.773] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:39.773] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:39.773] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:52:39.773] [debug]
+init validator
+[2024-02-23 10:52:41.280] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 10:53:27.950] [debug]
+Test for db init
+[2024-02-23 10:53:27.965] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:53:27.965] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:53:27.965] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:53:27.965] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:53:27.965] [debug]
+init validator
+[2024-02-23 10:54:33.962] [debug]
+Test for db init
+[2024-02-23 10:54:33.976] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:33.976] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:33.976] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:33.976] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:33.976] [debug]
+init validator
+[2024-02-23 10:54:47.297] [debug]
+Test for db init
+[2024-02-23 10:54:47.329] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:47.329] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:47.329] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:47.329] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:47.329] [debug]
+init validator
+[2024-02-23 10:54:49.027] [debug]
+Test for db init
+[2024-02-23 10:54:49.041] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:49.041] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:49.041] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:49.041] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:49.041] [debug]
+init validator
+[2024-02-23 10:54:54.259] [debug]
+Test for db init
+[2024-02-23 10:54:54.274] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:54.274] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:54.274] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:54.274] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:54:54.274] [debug]
+init validator
+[2024-02-23 10:55:03.960] [debug]
+Test for db init
+[2024-02-23 10:55:03.996] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:03.996] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:03.996] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:03.996] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:03.996] [debug]
+init validator
+[2024-02-23 10:55:10.065] [debug]
+Test for db init
+[2024-02-23 10:55:10.081] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:10.081] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:10.081] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:10.081] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:55:10.081] [debug]
+init validator
+[2024-02-23 10:55:11.281] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 10:56:10.076] [debug]
+Test for db init
+[2024-02-23 10:56:10.089] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:10.089] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:10.090] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:10.090] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:10.090] [debug]
+init validator
+[2024-02-23 10:56:33.964] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 10:56:44.945] [debug]
+Test for db init
+[2024-02-23 10:56:44.959] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:44.959] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:44.959] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:44.959] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:56:44.959] [debug]
+init validator
+[2024-02-23 10:56:45.347] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 10:56:52.557] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Username' Error:Field validation for 'Username' failed on the 'min' tag"}
+[2024-02-23 10:57:05.047] [debug]
+Test for db init
+[2024-02-23 10:57:05.059] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:05.060] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:05.060] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:05.060] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:05.060] [debug]
+init validator
+[2024-02-23 10:57:22.134] [debug]
+Test for db init
+[2024-02-23 10:57:22.146] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:22.146] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:22.146] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:22.146] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:22.146] [debug]
+init validator
+[2024-02-23 10:57:41.701] [debug]
+Test for db init
+[2024-02-23 10:57:41.715] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:41.715] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:41.716] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:41.716] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 10:57:41.716] [debug]
+init validator
+[2024-02-23 11:01:47.143] [debug]
+Test for db init
+[2024-02-23 11:01:47.157] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:01:47.157] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:01:47.157] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:01:47.157] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:01:47.157] [debug]
+init validator
+[2024-02-23 11:01:49.921] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Username' Error:Field validation for 'Username' failed on the 'min' tag"}
+[2024-02-23 11:01:55.504] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 11:02:04.415] [debug]
+Test for db init
+[2024-02-23 11:02:04.430] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:04.430] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:04.430] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:04.430] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:04.430] [debug]
+init validator
+[2024-02-23 11:02:05.267] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 11:02:14.144] [debug]
+Test for db init
+[2024-02-23 11:02:14.158] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:14.158] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:14.158] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:14.158] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:02:14.158] [debug]
+init validator
+[2024-02-23 11:03:39.028] [debug]
+Test for db init
+[2024-02-23 11:03:39.043] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:03:39.043] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:03:39.043] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:03:39.043] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:03:39.043] [debug]
+init validator
+[2024-02-23 11:04:00.658] [debug]
+Test for db init
+[2024-02-23 11:04:00.672] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:04:00.672] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:04:00.672] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:04:00.672] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 11:04:00.672] [debug]
+init validator
+[2024-02-23 12:00:13.332] [debug]
+Test for db init
+[2024-02-23 12:00:13.347] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:13.347] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:13.347] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:13.347] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:13.347] [debug]
+init validator
+[2024-02-23 12:00:15.268] [debug]
+Test for db init
+[2024-02-23 12:00:15.299] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:15.299] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:15.299] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:15.299] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 12:00:15.299] [debug]
+init validator
+[2024-02-23 15:07:07.873] [debug]
+Test for db init
+[2024-02-23 15:07:07.887] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:07.887] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:07.887] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:07.887] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:07.887] [debug]
+init validator
+[2024-02-23 15:07:22.666] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 15:07:36.065] [debug]
+Test for db init
+[2024-02-23 15:07:36.079] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:36.079] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:36.079] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:36.079] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:07:36.079] [debug]
+init validator
+[2024-02-23 15:07:39.113] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 15:17:04.543] [debug]
+Test for db init
+[2024-02-23 15:17:04.571] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:04.571] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:04.571] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:04.571] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:04.571] [debug]
+init validator
+[2024-02-23 15:17:10.815] [debug]
+Test for db init
+[2024-02-23 15:17:10.844] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:10.844] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:10.844] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:10.844] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:10.844] [debug]
+init validator
+[2024-02-23 15:17:15.060] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 15:17:18.999] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"error":"Key: 'UserInput.Email' Error:Field validation for 'Email' failed on the 'uniqueEmail' tag"}
+[2024-02-23 15:17:21.167] [debug]
+Test for db init
+[2024-02-23 15:17:21.180] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:21.180] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:21.180] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:21.180] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:17:21.180] [debug]
+init validator
+[2024-02-23 15:20:03.764] [debug]
+Test for db init
+[2024-02-23 15:20:03.778] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:20:03.778] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:20:03.778] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:20:03.778] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:20:03.778] [debug]
+init validator
+[2024-02-23 15:48:04.049] [debug]
+Test for db init
+[2024-02-23 15:48:04.070] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:04.071] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:04.071] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:04.071] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:04.071] [debug]
+init validator
+[2024-02-23 15:48:05.992] [debug]
+Test for db init
+[2024-02-23 15:48:06.008] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:06.008] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:06.008] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:06.008] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:48:06.008] [debug]
+init validator
+[2024-02-23 15:49:11.277] [debug]
+Test for db init
+[2024-02-23 15:49:11.291] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:11.291] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:11.291] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:11.291] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:11.291] [debug]
+init validator
+[2024-02-23 15:49:39.881] [debug]
+Test for db init
+[2024-02-23 15:49:39.896] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:39.896] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:39.896] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:39.896] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:49:39.896] [debug]
+init validator
+[2024-02-23 15:53:53.681] [debug]
+Test for db init
+[2024-02-23 15:53:53.703] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:53:53.703] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:53:53.703] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:53:53.703] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:53:53.703] [debug]
+init validator
+[2024-02-23 15:54:09.200] [debug]
+Test for db init
+[2024-02-23 15:54:09.215] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:09.215] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:09.215] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:09.215] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:09.215] [debug]
+init validator
+[2024-02-23 15:54:33.422] [debug]
+Test for db init
+[2024-02-23 15:54:33.448] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:33.448] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:33.448] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:33.448] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:54:33.449] [debug]
+init validator
+[2024-02-23 15:54:42.621] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"errors":[{"field":"Email","message":"This field is required"}]}{"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 15:55:23.730] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"errors":[{"field":"Email","message":"This field is required"}]}{"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 15:55:24.976] [debug]
+Test for db init
+[2024-02-23 15:55:24.989] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:55:24.989] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:55:24.989] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:55:24.989] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:55:24.989] [debug]
+init validator
+[2024-02-23 15:57:10.789] [debug]
+Test for db init
+[2024-02-23 15:57:10.804] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:10.804] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:10.804] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:10.804] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:10.804] [debug]
+init validator
+[2024-02-23 15:57:26.608] [debug]
+Test for db init
+[2024-02-23 15:57:26.625] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:26.625] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:26.625] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:26.625] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 15:57:26.625] [debug]
+init validator
+[2024-02-23 15:57:30.637] [debug]
+uniqueEmail
+[2024-02-23 15:57:30.637] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"errors":[{"field":"Email","message":"This field is required"}]}
+[2024-02-23 16:00:54.217] [debug]
+Test for db init
+[2024-02-23 16:00:54.238] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:00:54.238] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:00:54.238] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:00:54.238] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:00:54.238] [debug]
+init validator
+[2024-02-23 16:01:06.519] [debug]
+uniqueEmail
+[2024-02-23 16:01:06.519] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"errors":[{"field":"Email","message":"Email值已经被使用"}]}
+[2024-02-23 16:02:17.158] [debug]
+Test for db init
+[2024-02-23 16:02:17.173] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:17.173] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:17.173] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:17.173] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:17.173] [debug]
+init validator
+[2024-02-23 16:02:25.487] [debug]
+Test for db init
+[2024-02-23 16:02:25.501] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:25.501] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:25.501] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:25.501] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:25.501] [debug]
+init validator
+[2024-02-23 16:02:28.642] [debug]
+uniqueEmail
+[2024-02-23 16:02:28.642] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"errors":[{"field":"Email","message":"Email 值 test@test.com已经被使用"}]}
+[2024-02-23 16:02:42.935] [debug]
+Test for db init
+[2024-02-23 16:02:42.949] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:42.949] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:42.949] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:42.949] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:02:42.949] [debug]
+init validator
+[2024-02-23 16:05:03.261] [debug]
+Test for db init
+[2024-02-23 16:05:03.275] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:05:03.275] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:05:03.275] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:05:03.275] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:05:03.275] [debug]
+init validator
+[2024-02-23 16:06:04.382] [debug]
+Test for db init
+[2024-02-23 16:06:04.400] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:04.400] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:04.400] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:04.400] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:04.400] [debug]
+init validator
+[2024-02-23 16:06:11.560] [debug]
+uniqueEmail
+[2024-02-23 16:06:11.560] [info]
+Request: POST /api/user/register 
+Response: 400 body: {"errors":[{"field":"Email","message":"Email值test@test.com已经被使用"}]}
+[2024-02-23 16:06:33.069] [debug]
+Test for db init
+[2024-02-23 16:06:33.086] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:33.086] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:33.086] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:33.086] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:06:33.086] [debug]
+init validator
+[2024-02-23 16:06:34.686] [info]
+Request: POST /api/user/register 
+Response: 200 body: {"name":"test","email":"test@test.com","password":"test123456"}
+[2024-02-23 16:17:47.179] [debug]
+Test for db init
+[2024-02-23 16:17:47.192] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:17:47.192] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:17:47.192] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:17:47.192] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 16:17:47.192] [debug]
+init validator
+[2024-02-23 17:09:07.172] [debug]
+Test for db init
+[2024-02-23 17:09:07.188] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:07.188] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:07.188] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:07.188] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:07.188] [debug]
+init validator
+[2024-02-23 17:09:08.832] [debug]
+Test for db init
+[2024-02-23 17:09:08.847] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:08.847] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:08.847] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:08.847] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:09:08.847] [debug]
+init validator
+[2024-02-23 17:17:42.388] [debug]
+Test for db init
+[2024-02-23 17:17:42.403] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:17:42.403] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:17:42.403] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:17:42.403] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:17:42.403] [debug]
+init validator
+[2024-02-23 17:18:43.211] [debug]
+Test for db init
+[2024-02-23 17:18:43.225] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:18:43.225] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:18:43.225] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:18:43.225] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:18:43.225] [debug]
+init validator
+[2024-02-23 17:19:45.159] [debug]
+Test for db init
+[2024-02-23 17:19:45.173] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:45.173] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:45.173] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:45.173] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:45.173] [debug]
+init validator
+[2024-02-23 17:19:47.043] [debug]
+Test for db init
+[2024-02-23 17:19:47.057] [debug]
+Debug Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:47.057] [info]
+Info Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:47.057] [warning]
+Warn Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:47.057] [error]
+Error Config Info: 
+{
+  "Server": {
+    "Host": "localhost",
+    "Port": "8080",
+    "Debug": true
+  },
+  "Database": {
+    "Driver": "mysql",
+    "Host": "116.205.137.230",
+    "Port": "13306",
+    "Username": "root",
+    "Password": "jz#0317itr",
+    "DBName": "test"
+  }
+}
+
+[2024-02-23 17:19:47.057] [debug]
+init validator
